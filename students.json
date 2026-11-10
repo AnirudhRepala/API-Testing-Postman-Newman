@@ -1,0 +1,82 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 18,
+      "grade": "12th",
+      "subjects": [
+        "Math",
+        "Physics",
+        "English"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "age": 17,
+      "grade": "11th",
+      "subjects": [
+        "Biology",
+        "Chemistry",
+        "History"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "David Johnson",
+      "age": 16,
+      "grade": "10th",
+      "subjects": [
+        "Computer Science",
+        "Spanish",
+        "Art"
+      ]
+    },
+    {
+      "name": "Scott",
+      "age": 20,
+      "grade": "15th",
+      "subjects": [
+        "English",
+        "French",
+        "Mexican"
+      ],
+      "id": "w7zPymPQk4M"
+    },
+    {
+      "name": "Scott",
+      "age": 20,
+      "grade": "15th",
+      "subjects": [
+        "English",
+        "French",
+        "Mexican"
+      ],
+      "id": "Bn7K96IBuJU"
+    },
+    {
+      "name": "Scott",
+      "age": 20,
+      "grade": "15th",
+      "subjects": [
+        "English",
+        "French",
+        "Mexican"
+      ],
+      "id": "lKoPiIrsxeA"
+    },
+    {
+      "name": "Scott",
+      "age": 20,
+      "grade": "15th",
+      "subjects": [
+        "English",
+        "French",
+        "Mexican"
+      ],
+      "id": "c2hObmqsv2U"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
