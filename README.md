@@ -45,5 +45,26 @@ The report is available in the `newman` folder.
 - `package.json` – Project dependencies and configuration
 - `.gitignore` – Ignored files and folders
 
+
+## CI/CD Integration with Jenkins
+
+- Integrated Newman with Jenkins for automated API test execution.
+- Connected the Jenkins Freestyle project to the GitHub repository.
+- Executed the Postman collection using Newman CLI.
+- Configured HTML test report generation and publishing in Jenkins.
+- Verified successful automated execution through Jenkins.
+
+## Test Execution Results
+
+| Metric | Result |
+|---|---:|
+| Total Requests | 11 |
+| Total Assertions | 50 |
+| Passed Assertions | 50 |
+| Failed Assertions | 0 |
+| Skipped Tests | 0 |
+| Iterations | 1 |
+
+**Build Status: SUCCESS**
 ## Author
 Anirudh Repala
